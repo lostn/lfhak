@@ -1,14 +1,14 @@
 {
-  hacks: [
-    { url: "https://www.youtube.com/watch?v=Bq02iidWHEM" },
-    { url: "https://www.youtube.com/watch?v=cPklxzw1xDk" },
-    { url: "https://www.youtube.com/watch?v=AmuoFM4afMk" },
-    { url: "https://www.youtube.com/watch?v=Z_T5FAZjMEI" },
-    { url: "https://www.youtube.com/watch?v=-HvPAoNQwLk" },
-    { url: "https://www.youtube.com/watch?v=f-KZxucuwDs" },
-    { url: "https://www.youtube.com/watch?v=vKg21oSx0hM" },
-    { url: "https://www.youtube.com/watch?v=ISVIhk8XaDI" },
-    { url: "https://www.youtube.com/watch?v=TDJIK7GYyGU" },
-    { url: "https://www.youtube.com/watch?v=M8oivILbUA4" },
+  "main": [
+    { "url": "https://www.youtube.com/watch?v=Bq02iidWHEM" },
+    { "url": "https://www.youtube.com/watch?v=cPklxzw1xDk" },
+    { "url": "https://www.youtube.com/watch?v=AmuoFM4afMk" },
+    { "url": "https://www.youtube.com/watch?v=Z_T5FAZjMEI" },
+    { "url": "https://www.youtube.com/watch?v=-HvPAoNQwLk" },
+    { "url": "https://www.youtube.com/watch?v=f-KZxucuwDs" },
+    { "url": "https://www.youtube.com/watch?v=vKg21oSx0hM" },
+    { "url": "https://www.youtube.com/watch?v=ISVIhk8XaDI" },
+    { "url": "https://www.youtube.com/watch?v=TDJIK7GYyGU" },
+    { "url": "https://www.youtube.com/watch?v=M8oivILbUA4" },
   ],
 }
